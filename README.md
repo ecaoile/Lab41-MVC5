@@ -15,9 +15,9 @@ The following is required to run the program.
 3. .NET Framework NuGet Packages
 
 ## Example
-![Lab 41 Screenshot 1](Lab41-SS1.jpg)
-![Lab 41 Screenshot 2](Lab41-SS2.jpg)
-![Lab 41 Screenshot 3](Lab41-SS3.jpg)
+![Lab 41 Screenshot 1](./Lab41-SS1.jpg)
+![Lab 41 Screenshot 2](./Lab41-SS2.jpg)
+![Lab 41 Screenshot 3](./Lab41-SS3.jpg)
 
 ## Happy path
 - play app in Visual Studio
